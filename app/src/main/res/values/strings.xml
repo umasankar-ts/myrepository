@@ -1,3 +1,61 @@
 <resources>
-    <string name="app_name">Test</string>
+    <string name="app_name">"Umasankar"</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+
+    <string-array name="nav_drawer_labels">
+        <item>@string/view_albums</item>
+        <item>@string/add_albums</item>
+        <item>@string/enquire_form</item>
+        <item>@string/gallery</item>
+        <item>@string/contact_us</item>
+        <item>@string/about_us</item>
+        <item>@string/registers</item>
+        <item>@string/help</item>
+    </string-array>
+
+    <string-array name="nav_drawer_label_icons">
+        <item>@string/view_albums_icon</item>
+        <item>@string/add_albums_icon</item>
+        <item>@string/enquire_form_icon</item>
+        <item>@string/view_albums_icon</item>
+        <item>@string/contact_us_icon</item>
+        <item>@string/about_us_icon</item>
+        <item>@string/registers_icon</item>
+        <item>@string/help_icon</item>
+    </string-array>
+
+    <!--side drawewr labels-->
+    <string name="view_albums_icon">&#xf03e;</string>
+    <string name="add_albums_icon">&#xf0fe;</string>
+    <string name="about_us_icon">&#xf05a;</string>
+    <string name="contact_us_icon">&#xf2ba;</string>
+    <string name="enquire_form_icon">&#xf298;</string>
+    <string name="help_icon">&#xf059;</string>
+
+
+    <!--User Icon-->
+    <string name="user_icon">&#xf2bd;</string>
+
+    <!--Send Icon-->
+    <string name="send_icon">&#xf1d8;</string>
+
+    <!--help Icon-->
+    <string name="phone_icon">&#xf095;</string>
+    <string name="email_icon">&#xf0e0;</string>
+    <string name="website_icon">&#xf0ac;</string>
+    <string name="address_icon">&#xf041;</string>
+    <string name="registers_icon">&#xf298;</string>
+    <string name="login_icon">&#xf0a9;</string>
+
+    <!--side drawewr labels-->
+    <string name="view_albums">Albums</string>
+    <string name="add_albums">Add Album</string>
+    <string name="about_us">About Us</string>
+    <string name="gallery">Gallery</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="enquire_form">Enquire Form</string>
+    <string name="help">Help</string>
+    <string name="registers">Register</string>
+    <string name="logins">Login</string>
 </resources>

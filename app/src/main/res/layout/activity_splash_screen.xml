@@ -6,4 +6,16 @@
     android:layout_height="match_parent"
     tools:context="portfolio.umasankar.umasankar.SplashScreen">
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="THE ONE WHO HAS KNOWLEDGE AND PATIENCE CAN GET ANYTHING THEY WANTS IN LIFE"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
 </android.support.constraint.ConstraintLayout>
