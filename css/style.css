@@ -58,13 +58,6 @@ p{
   filter:drop-shadow(8px 8px 8px rgba(0,0,0,0.3)); 
 }
 
-#image-shadow-holding-hand{
-  -webkit-filter: drop-shadow(0 0 0 #00BCD4);
-  filter:drop-shadow(0 0 0 #00BCD4); 
-  /*-webkit-filter: drop-shadow(8px 8px 8px #ca2fff);
-  filter:drop-shadow(8px 8px 8px #ca2fff); */
-}
-
 .padding-5px{
   padding: 5px;
 }
@@ -142,6 +135,14 @@ font-weight: bolder;
   .banner-bride-name-margin{
     margin-left: -70px;
   }
+
+#banner-image-holding-hand{
+  -webkit-filter: drop-shadow(0 0 0 #00BCD4) !important;
+  filter:drop-shadow(0 0 0 #00BCD4) !important; 
+  /*-webkit-filter: drop-shadow(8px 8px 8px #ca2fff);
+  filter:drop-shadow(8px 8px 8px #ca2fff); */
+}
+
 
 /*-----------------BANNER PLACE END--------------------*/
 
