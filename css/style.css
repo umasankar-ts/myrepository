@@ -414,10 +414,8 @@ section{
   background-image: url("../images/profile-bg.jpg");
 }
 .profile-card-bg-image img {
-  width: 345px;
-  position: absolute;
-  top: -28px;
-  left: -10px;
+  height: 280px;  
+  margin-top: -30px;
 }
 .profile-card-couple-name {
   font-size: 2em;
